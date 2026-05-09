@@ -1,5 +1,5 @@
  # RunPod RAG Pipeline   
-   
+    
 Complete Retrieval-Augmented Generation (RAG) system using RunPod Serverless for LLM and Embeddings.
 
 ## 🚀 Features
